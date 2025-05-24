@@ -1,4 +1,4 @@
-# WEB-CF8
+# Coding Factory 8
 # WEB Project – Coding Factory | Athens University of Economics and Business
 
 This repository contains the WEB-CF8 project developed as part of the **Coding Factory** program at the **Athens University of Economics and Business (AUEB)**.
