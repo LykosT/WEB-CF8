@@ -1,0 +1,62 @@
+.container-fluid {
+    background-color: cornflowerblue;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 20px 0px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.container {
+    background-color:white;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    padding: 10px 0px;
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text-grey {
+    color: grey;
+}
+
+input[type="Email"],
+input[type="Password"] {
+    width: 75%;
+    height: 40px;
+    padding-left: 15px;
+    border-width: 0;
+    background-color:whitesmoke;
+    border-radius: 5px;
+}
+
+.row {
+    margin-bottom: 15px;
+}
+
+.container button[type="button"] {
+    width: 75%;
+    height: 40px;
+    border-width: 0;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.sing-up-click {
+    color: white;
+}
+
+.lost-pass {
+    color: gray;
+    font-size: small;
+}
+
+.have-account {
+    color: white;
+    font-size: smaller;
+}
